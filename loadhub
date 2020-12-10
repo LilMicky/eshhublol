@@ -1,0 +1,17 @@
+local place = game.PlaceId
+
+if place == 3823781113 then --Saber Sim
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LilMicky/eshhublol/main/SaberSim"))()
+else
+if place == 3623096087 then --Muscle Legends
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LilMicky/eshhublol/main/MuscleLegends"))()
+else
+if place == 4520749081 then -- King Piece
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LilMicky/eshhublol/main/KingPiece"))()
+else
+if place == 6002047566 then -- Sorcerer Fighting Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LilMicky/eshhublol/main/SorcererSimulator"))()
+end
+end
+end
+end
