@@ -15,7 +15,7 @@ else
     if place == 2619187362 then -- Super Power Fighting Simulator
     loadstring(game:HttpGet("https://raw.githubusercontent.com/LilMicky/eshhublol/main/SuperPower"))()
 else
-    if place == 2619187362 then -- Super Power Fighting Simulator
+    if place == 2619187362 then -- Legends of Speed
     loadstring(game:HttpGet("https://raw.githubusercontent.com/LilMicky/eshhublol/main/LegendsOfSpeed"))()
 end
 end
